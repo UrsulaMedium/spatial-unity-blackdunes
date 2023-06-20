@@ -16,6 +16,7 @@ MonoBehaviour:
   sku: 
   packageName: Spatial Island
   thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
-  savedProjectSettings: {fileID: 0}
+  savedProjectSettings: {fileID: 11400000, guid: 127196ecf81a24ac88ed0c562cba694e,
+    type: 2}
   worldID: 
   scene: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}

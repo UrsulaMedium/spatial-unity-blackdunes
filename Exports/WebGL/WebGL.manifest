@@ -3,6 +3,6 @@ CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: spatial-island_default_0
-      Hash: ff1873199bf12bce1e2b15df776dcc81
-      CRC: 2764298752
+      Hash: a053520e1706c474819a18e36a6468ea
+      CRC: 1472821234
       Dependencies: {}
