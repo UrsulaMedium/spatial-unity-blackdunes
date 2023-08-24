@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: spatial-island_default_0
-      Hash: 70fe2f3cbb410b3f63676c20ea7aad1e
-      CRC: 2277068896
+      Name: midnight-ripples_default_0
+      Hash: f5dc0766554e476ca9997e4ccd5d2659
+      CRC: 2383766158
       Dependencies: {}

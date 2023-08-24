@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Space_Spatial_Island
   m_EditorClassIdentifier: 
   version: 0
-  sku: 
-  packageName: Spatial Island
-  thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
+  sku: 64df711fd583eb4cb283ab25
+  packageName: Midnight Ripples
+  thumbnail: {fileID: 2800000, guid: eae48e6e28ad44f4f89362f1ea401114, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: 127196ecf81a24ac88ed0c562cba694e,
     type: 2}
-  worldID: 
+  worldID: tVFWaePcN0ZgeOO5lhE5o
   scene: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
