@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: midnight-ripples_default_0
-      Hash: f5dc0766554e476ca9997e4ccd5d2659
-      CRC: 2383766158
+      Name: midnight-ripples_0
+      Hash: cb95189fa9fed4ebc314f2affd6f72df
+      CRC: 3618322014
       Dependencies: {}
